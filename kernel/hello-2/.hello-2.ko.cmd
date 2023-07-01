@@ -1,1 +1,0 @@
-savedcmd_/home/jg/dev/kernel/hello-2/hello-2.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/jg/dev/kernel/hello-2/hello-2.ko /home/jg/dev/kernel/hello-2/hello-2.o /home/jg/dev/kernel/hello-2/hello-2.mod.o;  true
