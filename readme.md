@@ -8,5 +8,5 @@
 
 ---
 
-### ./dev/kernel is written following this source: [https://sysprog21.github.io/lkmpg/]
+### ./kernel is written following this source: [https://sysprog21.github.io/lkmpg/]
 
