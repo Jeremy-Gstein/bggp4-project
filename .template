@@ -4,8 +4,8 @@ Contact Info: security@j51b5.me
 Website, twitter, other online presence: https://j51b5.me 
 Target File Type: .ko 
 SHA256 Hash: 
-Target Environment (How do we run the file?): Arch Linux x86_64 
-Any additional info?: 
+Target Environment (How do we run the file?): Arch Linux x86_64 with kernel version: 6.3.9-arch1-1 
+Any additional info?: https://github.com/Jeremy-Gstein/bggp4-project 
 Link to PoC video, screenshot, or console output, if any: 
 Link to writeup, if any: 
 File contents (base64 encoded please): 
