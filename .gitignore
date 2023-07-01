@@ -1,0 +1,10 @@
+kernel/hello-1/*.mod
+kernel/hello-1/*.o
+kernel/hello-1/modules.order
+kernel/hello-1/Module.symvers
+kernel/hello-2/*.mod
+kernel/hello-2/*.o
+kernel/hello-2/modules.order
+kernel/hello-2/Module.symvers
+
+
